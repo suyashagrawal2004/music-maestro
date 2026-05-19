@@ -12,7 +12,7 @@ export function SiteFooter({ onNavigate }) {
           {/* Identity Section */}
           <div className="space-y-4 text-center md:text-left">
             <a 
-              href="https://suyash-agrawal-mntta.github.io/" 
+              href="https://suyashagrawal2004.github.io/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:opacity-80 transition-opacity"
@@ -30,7 +30,7 @@ export function SiteFooter({ onNavigate }) {
           <div className="flex flex-col md:flex-row items-center md:justify-end gap-8 md:gap-12">
             
             <a 
-              href="https://suyash-agrawal-mntta.github.io/" 
+              href="https://suyashagrawal2004.github.io/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="group flex gap-3 items-center"
@@ -44,7 +44,7 @@ export function SiteFooter({ onNavigate }) {
             </a>
 
             <a 
-              href="https://github.com/suyash-agrawal-mntta" 
+              href="https://github.com/suyashagrawal2004" 
               target="_blank" 
               rel="noopener noreferrer"
               className="group flex gap-3 items-center"
@@ -58,7 +58,7 @@ export function SiteFooter({ onNavigate }) {
             </a>
 
             <a 
-              href="https://www.linkedin.com/in/suyash-agrawal-mntta/" 
+              href="https://www.linkedin.com/in/suyashagrawal2004/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="group flex gap-3 items-center"
@@ -72,7 +72,7 @@ export function SiteFooter({ onNavigate }) {
             </a>
 
             <a 
-              href="mailto:suyash.mntta@gmail.com" 
+              href="mailto:dm.suyash.a@gmail.com" 
               className="group flex gap-3 items-center"
             >
               <div className="w-10 h-10 rounded-full bg-surface-container flex items-center justify-center border border-on-surface/5 group-hover:bg-primary/10 group-hover:border-primary/20 transition-colors">

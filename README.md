@@ -10,7 +10,7 @@
   </p>
 
   > [!IMPORTANT]
-  > **🔐 Access Note**: This application is currently in **Spotify API Development Mode**. By default, only authorized testers can log in. If you are a recruiter or developer and want to test the full live functionality with your account, please reach out to me via **[LinkedIn](https://www.linkedin.com/in/suyash-agrawal-mntta/)** to be added as a tester.
+  > **🔐 Access Note**: This application is currently in **Spotify API Development Mode**. By default, only authorized testers can log in. If you are a recruiter or developer and want to test the full live functionality with your account, please reach out to me via **[LinkedIn](https://www.linkedin.com/in/suyashagrawal2004/)** to be added as a tester.
 
   <p>
     <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
@@ -78,8 +78,8 @@ Music Maestro is orchestrated across a distributed environment to ensure scalabi
 
 ### 1. Repository Initialization
 ```bash
-git clone https://github.com/suyash-agrawal-mntta/MusicMaestro.git
-cd MusicMaestro
+git clone https://github.com/suyashagrawal2004/music-maestro.git
+cd music-maestro
 
 # Install dependencies for both server and client
 npm install
@@ -110,6 +110,6 @@ The application will instantly compile and orchestrate on `http://localhost:5173
 ---
 
 <div align="center">
-  <p><i>Concept, Architecture, and Engineering by <b><a href="https://github.com/suyash-agrawal-mntta">Suyash Agrawal</a></b></i></p>
+  <p><i>Concept, Architecture, and Engineering by <b><a href="https://github.com/suyashagrawal2004">Suyash Agrawal</a></b></i></p>
   <p>Built with AI + Spotify API 🎧</p>
 </div>
